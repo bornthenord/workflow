@@ -9,7 +9,6 @@ position.y = 200
 
 decorations = "Buttonless"
 opacity = 0.92
-blur = true
 
 [window.dimensions]
 columns = 133
